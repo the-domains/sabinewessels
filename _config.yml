@@ -1,6 +1,6 @@
 name: SabineWessels
 favicon: null
-layout_spectrum: 0.7476751529611647
+layout_spectrum: 0.2254
 typography_spectrum: 0.6205877054017037
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.17206288571469486
-  lightness: 0.37837300449609756
-  saturation: 0.09797310037538409
+    - '#070a28'
+    - '#ff585a'
+    - '#ffc3e2'
+    - '#00b0e0'
+    - '#ff0043'
+  brandStrength: 1
+  lightness: 1
+  saturation: 1
   rhythmicContrast: 0.34860597481019795
 purpose: []
